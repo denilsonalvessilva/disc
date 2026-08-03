@@ -17,10 +17,10 @@ Bem-vindo(a) ao repositório de organização e gestão financeira do seu salão
 
 ## 📂 Estrutura de Arquivos
 
-* readme.md : Visão geral do plano e navegação principal.
-* cronograma.md : Hábitos diários e roteiro detalhado mês a mês (plano de 6 meses).
-* recursos.md : Guia de estudos, planilhas, ferramentas e referências organizadas por mês.
-* anotações.md : Modelo prático de anotações semanais para ser duplicado a cada nova semana.
+* [readme.md] : Visão geral do plano e navegação principal.
+* [cronograma.md] : Hábitos diários e roteiro detalhado mês a mês (plano de 6 meses).
+* [recursos.md] : Guia de estudos, planilhas, ferramentas e referências organizadas por mês.
+* [anotações.md] : Modelo prático de anotações semanais para ser duplicado a cada nova semana.
 
 ---
 
