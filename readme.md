@@ -1,6 +1,6 @@
 # 🎯 Plano de Gestão Financeira para Salão de Beleza
 
-Bem-vindo(a) ao repositório de organização e gestão financeira do seu salão de beleza! Este material foi estruturado para guiar a transição de um caixa misturado para uma gestão profissional, [...]
+Bem-vindo(a) ao repositório de organização e gestão financeira do seu salão de beleza! Este material foi estruturado para guiar a transição de um caixa misturado para uma gestão profissional.
 
 ---
 
