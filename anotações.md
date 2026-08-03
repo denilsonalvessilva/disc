@@ -1,6 +1,6 @@
 # 📝 Modelo de Anotações Semanais - Semana 01
 
-> **Instruções**: Duplique este arquivo para cada nova semana (ex: `semana-02.md`, `semana-03.md`) dentro da pasta `anotacoes/`.
+> **Instruções**: Duplique este arquivo para cada nova semana (ex: Semana 02, Semana 03) dentro da pasta Anotacoes.
 
 ---
 
@@ -12,7 +12,7 @@
 - [ ] Atender X clientes
 - [ ] Registrar 100% das entradas e saídas no caixa
 - [ ] Respeitar o limite de retiradas pessoais (Pró-labore)
-- [ ] Estudar o material da semana em [recursos.md](../recursos.md)
+- [ ] Estudar o material da semana em recursos.md
 
 ---
 
